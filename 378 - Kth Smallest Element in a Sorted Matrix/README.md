@@ -1,6 +1,6 @@
 <h2>378. Kth Smallest Element in a Sorted Matrix</h2>
 
-<a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/">Link to Problem</a>
+<a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/">Link to Problem</a>
 
 <h3>Medium</h3>
 <hr>
